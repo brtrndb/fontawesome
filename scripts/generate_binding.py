@@ -7,16 +7,16 @@ from fontTools.ttLib import TTFont
 
 # Hardcoded font file names and output enc names
 fonts = [
-    ("FontAwesome6Brands-Regular-400.otf", "fa6brands"),
-    ("FontAwesome6Free-Regular-400.otf", "fa6free"),
-    ("FontAwesome6Free-Solid-900.otf", "fa6free"),
+    ("FontAwesome7Brands-Regular-400.otf", "fa7brands"),
+    ("FontAwesome7Free-Regular-400.otf", "fa7free"),
+    ("FontAwesome7Free-Solid-900.otf", "fa7free"),
 ]
 fonts_enc = [
-    ("FontAwesome6Brands-Regular-400.otf", "fa6brands"),
-    ("FontAwesome6Free-Solid-900.otf", "fa6free"),
+    ("FontAwesome7Brands-Regular-400.otf", "fa7brands"),
+    ("FontAwesome7Free-Solid-900.otf", "fa7free"),
 ]
 
-root_dir = "fontawesome6"
+root_dir = "fontawesome7"
 opentype_dir = "opentype"
 enc_dir = "enc"
 map_dir = "map"
@@ -27,7 +27,7 @@ GLYPHS_PER_ENC = 256
 
 # Paths
 ICON_JSON = os.path.join('assets', 'icons.json')
-OUTPUT_DEF = os.path.join(root_dir, 'tex', 'fontawesome6-mapping.def')
+OUTPUT_DEF = os.path.join(root_dir, 'tex', 'fontawesome7-mapping.def')
 
 ALLOWED_PATTERN = re.compile("[A-Za-z]+")
 SKIP_ICONS = set(str(i) for i in range(10))
@@ -47,36 +47,36 @@ HEADING_MAPPING = """% Copyright 2025 Daniel Nagel
 %
 """
 
-FD_FREE = """\\DeclareFontFamily{{U}}{{fontawesome6{enc}}}{{}}
-\\DeclareFontShape{{U}}{{fontawesome6{enc}}}{{solid}}{{n}}
-    {{<-> fa6{enc}solid}}{{}}
-\\DeclareFontShape{{U}}{{fontawesome6{enc}}}{{regular}}{{n}}
-    {{<-> fa6{enc}regular}}{{}}
+FD_FREE = """\\DeclareFontFamily{{U}}{{fontawesome7{enc}}}{{}}
+\\DeclareFontShape{{U}}{{fontawesome7{enc}}}{{solid}}{{n}}
+    {{<-> fa7{enc}solid}}{{}}
+\\DeclareFontShape{{U}}{{fontawesome7{enc}}}{{regular}}{{n}}
+    {{<-> fa7{enc}regular}}{{}}
 
-\\DeclareFontShape{{U}}{{fontawesome6{enc}}}{{m}}{{n}}
-    {{<->ssub * fontawesome6{enc}/regular/n}}{{}}
-\\DeclareFontShape{{U}}{{fontawesome6{enc}}}{{b}}{{n}}
-    {{<->ssub * fontawesome6{enc}/solid/n}}{{}}
-\\DeclareFontShape{{U}}{{fontawesome6{enc}}}{{bx}}{{n}}
-    {{<->ssub * fontawesome6{enc}/solid/n}}{{}}
+\\DeclareFontShape{{U}}{{fontawesome7{enc}}}{{m}}{{n}}
+    {{<->ssub * fontawesome7{enc}/regular/n}}{{}}
+\\DeclareFontShape{{U}}{{fontawesome7{enc}}}{{b}}{{n}}
+    {{<->ssub * fontawesome7{enc}/solid/n}}{{}}
+\\DeclareFontShape{{U}}{{fontawesome7{enc}}}{{bx}}{{n}}
+    {{<->ssub * fontawesome7{enc}/solid/n}}{{}}
 """
 
-FD_BRANDS = """\\DeclareFontFamily{{U}}{{fontawesome6{enc}}}{{}}
-\\DeclareFontShape{{U}}{{fontawesome6{enc}}}{{regular}}{{n}}
-    {{<-> fa6{enc}}}{{}}
-\\DeclareFontShape{{U}}{{fontawesome6{enc}}}{{solid}}{{n}}
-    {{<->ssub * fontawesome6{enc}/regular/n}}{{}}
-\\DeclareFontShape{{U}}{{fontawesome6{enc}}}{{light}}{{n}}
-    {{<->ssub * fontawesome6{enc}/regular/n}}{{}}
+FD_BRANDS = """\\DeclareFontFamily{{U}}{{fontawesome7{enc}}}{{}}
+\\DeclareFontShape{{U}}{{fontawesome7{enc}}}{{regular}}{{n}}
+    {{<-> fa7{enc}}}{{}}
+\\DeclareFontShape{{U}}{{fontawesome7{enc}}}{{solid}}{{n}}
+    {{<->ssub * fontawesome7{enc}/regular/n}}{{}}
+\\DeclareFontShape{{U}}{{fontawesome7{enc}}}{{light}}{{n}}
+    {{<->ssub * fontawesome7{enc}/regular/n}}{{}}
 
-\\DeclareFontShape{{U}}{{fontawesome6{enc}}}{{l}}{{n}}
-    {{<->ssub * fontawesome6{enc}/regular/n}}{{}}
-\\DeclareFontShape{{U}}{{fontawesome6{enc}}}{{m}}{{n}}
-    {{<->ssub * fontawesome6{enc}/regular/n}}{{}}
-\\DeclareFontShape{{U}}{{fontawesome6{enc}}}{{b}}{{n}}
-    {{<->ssub * fontawesome6{enc}/regular/n}}{{}}
-\\DeclareFontShape{{U}}{{fontawesome6{enc}}}{{bx}}{{n}}
-    {{<->ssub * fontawesome6{enc}/regular/n}}{{}}
+\\DeclareFontShape{{U}}{{fontawesome7{enc}}}{{l}}{{n}}
+    {{<->ssub * fontawesome7{enc}/regular/n}}{{}}
+\\DeclareFontShape{{U}}{{fontawesome7{enc}}}{{m}}{{n}}
+    {{<->ssub * fontawesome7{enc}/regular/n}}{{}}
+\\DeclareFontShape{{U}}{{fontawesome7{enc}}}{{b}}{{n}}
+    {{<->ssub * fontawesome7{enc}/regular/n}}{{}}
+\\DeclareFontShape{{U}}{{fontawesome7{enc}}}{{bx}}{{n}}
+    {{<->ssub * fontawesome7{enc}/regular/n}}{{}}
 """
 
 
@@ -144,9 +144,9 @@ def generate_map():
 
     # Map font base to PostScript name and .pfb file
     font_psnames = {
-        "brands": ("FontAwesome6Brands-Regular", "FontAwesome6Brands-Regular.pfb"),
-        "regular": ("FontAwesome6Free-Regular", "FontAwesome6Free-Regular.pfb"),
-        "solid": ("FontAwesome6Free-Solid", "FontAwesome6Free-Solid.pfb"),
+        "brands": ("FontAwesome7Brands-Regular", "FontAwesome7Brands-Regular.pfb"),
+        "regular": ("FontAwesome7Free-Regular", "FontAwesome7Free-Regular.pfb"),
+        "solid": ("FontAwesome7Free-Solid", "FontAwesome7Free-Solid.pfb"),
     }
 
     tfm_path = os.path.join(root_dir, tfm_dir)
@@ -159,7 +159,7 @@ def generate_map():
                 ps_name, pfb_file = font_psnames[base]
                 break
 
-        # Extract encoding part (e.g., fa6free0, fa6free1, ...)
+        # Extract encoding part (e.g., fa7free0, fa7free1, ...)
         enc_part = tfm_name.replace("solid", "").replace("regular", "")
         enc_file = f"{enc_part}.enc"
         enc_name = enc_part
@@ -169,7 +169,7 @@ def generate_map():
         )
         map_lines.append(map_line)
 
-    map_path = os.path.join(root_dir, map_dir, "fontawesome6.map")
+    map_path = os.path.join(root_dir, map_dir, "fontawesome7.map")
     with open(map_path, "w", encoding="utf-8") as f:
         for line in map_lines:
             f.write(line + "\n")
@@ -182,7 +182,7 @@ def generate_fd_files(enc_assignments):
 
     for enc in enc_files:
         # Generate fd files for free fonts
-        fd_path = os.path.join(fd_dir, f"ufontawesome6{enc}.fd")
+        fd_path = os.path.join(fd_dir, f"ufontawesome7{enc}.fd")
         with open(fd_path, "w", encoding="utf-8") as f:
             f.write(HEADING_MAPPING)
             if enc.startswith("free"):

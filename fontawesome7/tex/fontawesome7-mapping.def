@@ -23,6 +23,7 @@
 \__fontawesome_def_icon:nnnnn{\faAdversal}{adversal}{brands0}{6}{"F36A}
 \__fontawesome_def_icon:nnnnn{\faAffiliatetheme}{affiliatetheme}{brands0}{7}{"F36B}
 \__fontawesome_def_icon:nnnnn{\faAirbnb}{airbnb}{brands0}{8}{"F834}
+\__fontawesome_def_icon:nnnnn{\faAlarmClock}{alarm-clock}{free0}{3}{"F34E}
 \__fontawesome_def_icon:nnnnn{\faAlgolia}{algolia}{brands0}{9}{"F36C}
 \__fontawesome_def_icon:nnnnn{\faAlignCenter}{align-center}{free0}{4}{"F037}
 \__fontawesome_def_icon:nnnnn{\faAlignJustify}{align-justify}{free0}{5}{"F039}
@@ -260,6 +261,7 @@
 \__fontawesome_def_icon:nnnnn{\faBuromobelexperte}{buromobelexperte}{brands0}{53}{"F37F}
 \__fontawesome_def_icon:nnnnn{\faBurst}{burst}{free0}{195}{"E4DC}
 \__fontawesome_def_icon:nnnnn{\faBus}{bus}{free0}{196}{"F207}
+\__fontawesome_def_icon:nnnnn{\faBusSide}{bus-side}{free0}{197}{"E81D}
 \__fontawesome_def_icon:nnnnn{\faBusSimple}{bus-simple}{free0}{198}{"F55E}
 \__fontawesome_def_icon:nnnnn{\faBusinessTime}{business-time}{free0}{199}{"F64A}
 \__fontawesome_def_icon:nnnnn{\faBuyNLarge}{buy-n-large}{brands0}{54}{"F8A6}
@@ -302,6 +304,7 @@
 \__fontawesome_def_icon:nnnnn{\faCartFlatbedSuitcase}{cart-flatbed-suitcase}{free0}{234}{"F59D}
 \__fontawesome_def_icon:nnnnn{\faCartPlus}{cart-plus}{free0}{235}{"F217}
 \__fontawesome_def_icon:nnnnn{\faCartShopping}{cart-shopping}{free0}{236}{"F07A}
+\__fontawesome_def_icon:nnnnn{\faCashApp}{cash-app}{brands0}{58}{"E7D4}
 \__fontawesome_def_icon:nnnnn{\faCashRegister}{cash-register}{free0}{237}{"F788}
 \__fontawesome_def_icon:nnnnn{\faCat}{cat}{free0}{238}{"F6BE}
 \__fontawesome_def_icon:nnnnn{\faCcAmazonPay}{cc-amazon-pay}{brands0}{59}{"F42D}
@@ -525,6 +528,7 @@
 \__fontawesome_def_icon:nnnnn{\faDiscourse}{discourse}{brands0}{122}{"F393}
 \__fontawesome_def_icon:nnnnn{\faDisease}{disease}{free1}{139}{"F7FA}
 \__fontawesome_def_icon:nnnnn{\faDisplay}{display}{free1}{140}{"E163}
+\__fontawesome_def_icon:nnnnn{\faDisqus}{disqus}{brands0}{123}{"E7D5}
 \__fontawesome_def_icon:nnnnn{\faDivide}{divide}{free1}{141}{"F529}
 \__fontawesome_def_icon:nnnnn{\faDna}{dna}{free1}{142}{"F471}
 \__fontawesome_def_icon:nnnnn{\faDochub}{dochub}{brands0}{124}{"F394}
@@ -554,6 +558,7 @@
 \__fontawesome_def_icon:nnnnn{\faDumpster}{dumpster}{free1}{161}{"F793}
 \__fontawesome_def_icon:nnnnn{\faDumpsterFire}{dumpster-fire}{free1}{162}{"F794}
 \__fontawesome_def_icon:nnnnn{\faDungeon}{dungeon}{free1}{163}{"F6D9}
+\__fontawesome_def_icon:nnnnn{\faDuolingo}{duolingo}{brands0}{130}{"E812}
 \__fontawesome_def_icon:nnnnn{\faDyalog}{dyalog}{brands0}{131}{"F399}
 \__fontawesome_def_icon:nnnnn{\faE}{e}{free1}{164}{"45}
 \__fontawesome_def_icon:nnnnn{\faEarDeaf}{ear-deaf}{free1}{165}{"F2A4}
@@ -571,6 +576,7 @@
 \__fontawesome_def_icon:nnnnn{\faEject}{eject}{free1}{173}{"F052}
 \__fontawesome_def_icon:nnnnn{\faElementor}{elementor}{brands0}{137}{"F430}
 \__fontawesome_def_icon:nnnnn{\faElevator}{elevator}{free1}{174}{"E16D}
+\__fontawesome_def_icon:nnnnn{\faEleventy}{eleventy}{brands0}{138}{"E7D6}
 \__fontawesome_def_icon:nnnnn{\faEllipsis}{ellipsis}{free1}{175}{"F141}
 \__fontawesome_def_icon:nnnnn{\faEllipsisVertical}{ellipsis-vertical}{free1}{176}{"F142}
 \__fontawesome_def_icon:nnnnn{\faEllo}{ello}{brands0}{139}{"F5F1}
@@ -867,6 +873,7 @@
 \__fontawesome_def_icon:nnnnn{\faHelicopterSymbol}{helicopter-symbol}{free2}{142}{"E502}
 \__fontawesome_def_icon:nnnnn{\faHelmetSafety}{helmet-safety}{free2}{143}{"F807}
 \__fontawesome_def_icon:nnnnn{\faHelmetUn}{helmet-un}{free2}{144}{"E503}
+\__fontawesome_def_icon:nnnnn{\faHexagon}{hexagon}{free2}{145}{"F312}
 \__fontawesome_def_icon:nnnnn{\faHexagonNodes}{hexagon-nodes}{free2}{146}{"E699}
 \__fontawesome_def_icon:nnnnn{\faHexagonNodesBolt}{hexagon-nodes-bolt}{free2}{147}{"E69A}
 \__fontawesome_def_icon:nnnnn{\faHighlighter}{highlighter}{free2}{148}{"F591}
@@ -971,6 +978,7 @@
 \__fontawesome_def_icon:nnnnn{\faK}{k}{free2}{219}{"4B}
 \__fontawesome_def_icon:nnnnn{\faKaaba}{kaaba}{free2}{220}{"F66B}
 \__fontawesome_def_icon:nnnnn{\faKaggle}{kaggle}{brands0}{246}{"F5FA}
+\__fontawesome_def_icon:nnnnn{\faKakaoTalk}{kakao-talk}{brands0}{247}{"E7D7}
 \__fontawesome_def_icon:nnnnn{\faKey}{key}{free2}{221}{"F084}
 \__fontawesome_def_icon:nnnnn{\faKeybase}{keybase}{brands0}{248}{"F4F5}
 \__fontawesome_def_icon:nnnnn{\faKeyboard}{keyboard}{free2}{222}{"F11C}
@@ -1014,6 +1022,7 @@
 \__fontawesome_def_icon:nnnnn{\faLinkSlash}{link-slash}{free2}{250}{"F127}
 \__fontawesome_def_icon:nnnnn{\faLinkedin}{linkedin}{brands1}{4}{"F08C}
 \__fontawesome_def_icon:nnnnn{\faLinkedinIn}{linkedin-in}{brands1}{5}{"F0E1}
+\__fontawesome_def_icon:nnnnn{\faLinktree}{linktree}{brands1}{6}{"E7D8}
 \__fontawesome_def_icon:nnnnn{\faLinode}{linode}{brands1}{7}{"F2B8}
 \__fontawesome_def_icon:nnnnn{\faLinux}{linux}{brands1}{8}{"F17C}
 \__fontawesome_def_icon:nnnnn{\faLiraSign}{lira-sign}{free2}{251}{"F195}
@@ -1030,6 +1039,8 @@
 \__fontawesome_def_icon:nnnnn{\faLock}{lock}{free3}{6}{"F023}
 \__fontawesome_def_icon:nnnnn{\faLockOpen}{lock-open}{free3}{7}{"F3C1}
 \__fontawesome_def_icon:nnnnn{\faLocust}{locust}{free3}{8}{"E520}
+\__fontawesome_def_icon:nnnnn{\faLumon}{lumon}{brands1}{9}{"E7E2}
+\__fontawesome_def_icon:nnnnn{\faLumonDrop}{lumon-drop}{brands1}{10}{"E7E3}
 \__fontawesome_def_icon:nnnnn{\faLungs}{lungs}{free3}{9}{"F604}
 \__fontawesome_def_icon:nnnnn{\faLungsVirus}{lungs-virus}{free3}{10}{"E067}
 \__fontawesome_def_icon:nnnnn{\faLyft}{lyft}{brands1}{11}{"F3C3}
@@ -1106,6 +1117,7 @@
 \__fontawesome_def_icon:nnnnn{\faMobileRetro}{mobile-retro}{free3}{60}{"E527}
 \__fontawesome_def_icon:nnnnn{\faMobileScreen}{mobile-screen}{free3}{61}{"F3CF}
 \__fontawesome_def_icon:nnnnn{\faMobileScreenButton}{mobile-screen-button}{free3}{62}{"F3CD}
+\__fontawesome_def_icon:nnnnn{\faMobileVibrate}{mobile-vibrate}{free3}{63}{"E816}
 \__fontawesome_def_icon:nnnnn{\faModx}{modx}{brands1}{34}{"F285}
 \__fontawesome_def_icon:nnnnn{\faMonero}{monero}{brands1}{35}{"F3D0}
 \__fontawesome_def_icon:nnnnn{\faMoneyBill}{money-bill}{free3}{64}{"F0D6}
@@ -1144,16 +1156,19 @@
 \__fontawesome_def_icon:nnnnn{\faNimblr}{nimblr}{brands1}{41}{"F5A8}
 \__fontawesome_def_icon:nnnnn{\faNode}{node}{brands1}{42}{"F419}
 \__fontawesome_def_icon:nnnnn{\faNodeJs}{node-js}{brands1}{43}{"F3D3}
+\__fontawesome_def_icon:nnnnn{\faNonBinary}{non-binary}{free3}{93}{"E807}
 \__fontawesome_def_icon:nnnnn{\faNotEqual}{not-equal}{free3}{94}{"F53E}
 \__fontawesome_def_icon:nnnnn{\faNotdef}{notdef}{free3}{95}{"E1FE}
 \__fontawesome_def_icon:nnnnn{\faNoteSticky}{note-sticky}{free3}{96}{"F249}
 \__fontawesome_def_icon:nnnnn{\faNotesMedical}{notes-medical}{free3}{97}{"F481}
+\__fontawesome_def_icon:nnnnn{\faNotion}{notion}{brands1}{44}{"E7D9}
 \__fontawesome_def_icon:nnnnn{\faNpm}{npm}{brands1}{45}{"F3D4}
 \__fontawesome_def_icon:nnnnn{}{ns8}{brands1}{46}{"F3D5}
 \__fontawesome_def_icon:nnnnn{\faNutritionix}{nutritionix}{brands1}{47}{"F3D6}
 \__fontawesome_def_icon:nnnnn{\faO}{o}{free3}{98}{"4F}
 \__fontawesome_def_icon:nnnnn{\faObjectGroup}{object-group}{free3}{99}{"F247}
 \__fontawesome_def_icon:nnnnn{\faObjectUngroup}{object-ungroup}{free3}{100}{"F248}
+\__fontawesome_def_icon:nnnnn{\faOctagon}{octagon}{free3}{101}{"F306}
 \__fontawesome_def_icon:nnnnn{\faOctopusDeploy}{octopus-deploy}{brands1}{49}{"E082}
 \__fontawesome_def_icon:nnnnn{\faOdnoklassniki}{odnoklassniki}{brands1}{50}{"F263}
 \__fontawesome_def_icon:nnnnn{\faOdysee}{odysee}{brands1}{51}{"E5C6}
@@ -1161,6 +1176,7 @@
 \__fontawesome_def_icon:nnnnn{\faOilWell}{oil-well}{free3}{103}{"E532}
 \__fontawesome_def_icon:nnnnn{\faOldRepublic}{old-republic}{brands1}{52}{"F510}
 \__fontawesome_def_icon:nnnnn{\faOm}{om}{free3}{104}{"F679}
+\__fontawesome_def_icon:nnnnn{\faOpenai}{openai}{brands1}{53}{"E7CF}
 \__fontawesome_def_icon:nnnnn{\faOpencart}{opencart}{brands1}{54}{"F23D}
 \__fontawesome_def_icon:nnnnn{\faOpenid}{openid}{brands1}{55}{"F19B}
 \__fontawesome_def_icon:nnnnn{\faOpensuse}{opensuse}{brands1}{56}{"E62B}
@@ -1180,6 +1196,7 @@
 \__fontawesome_def_icon:nnnnn{\faPalette}{palette}{free3}{111}{"F53F}
 \__fontawesome_def_icon:nnnnn{\faPalfed}{palfed}{brands1}{65}{"F3D8}
 \__fontawesome_def_icon:nnnnn{\faPallet}{pallet}{free3}{112}{"F482}
+\__fontawesome_def_icon:nnnnn{\faPandora}{pandora}{brands1}{66}{"E7DA}
 \__fontawesome_def_icon:nnnnn{\faPanorama}{panorama}{free3}{113}{"E209}
 \__fontawesome_def_icon:nnnnn{\faPaperPlane}{paper-plane}{free3}{114}{"F1D8}
 \__fontawesome_def_icon:nnnnn{\faPaperclip}{paperclip}{free3}{115}{"F0C6}
@@ -1199,6 +1216,7 @@
 \__fontawesome_def_icon:nnnnn{\faPenRuler}{pen-ruler}{free3}{127}{"F5AE}
 \__fontawesome_def_icon:nnnnn{\faPenToSquare}{pen-to-square}{free3}{128}{"F044}
 \__fontawesome_def_icon:nnnnn{\faPencil}{pencil}{free3}{129}{"F303}
+\__fontawesome_def_icon:nnnnn{\faPentagon}{pentagon}{free3}{130}{"E790}
 \__fontawesome_def_icon:nnnnn{\faPeopleArrows}{people-arrows}{free3}{131}{"E068}
 \__fontawesome_def_icon:nnnnn{\faPeopleCarryBox}{people-carry-box}{free3}{132}{"F4CE}
 \__fontawesome_def_icon:nnnnn{\faPeopleGroup}{people-group}{free3}{133}{"E533}
@@ -1276,6 +1294,7 @@
 \__fontawesome_def_icon:nnnnn{\faPinterest}{pinterest}{brands1}{79}{"F0D2}
 \__fontawesome_def_icon:nnnnn{\faPinterestP}{pinterest-p}{brands1}{80}{"F231}
 \__fontawesome_def_icon:nnnnn{\faPix}{pix}{brands1}{81}{"E43A}
+\__fontawesome_def_icon:nnnnn{\faPixelfed}{pixelfed}{brands1}{82}{"E7DB}
 \__fontawesome_def_icon:nnnnn{\faPixiv}{pixiv}{brands1}{83}{"E640}
 \__fontawesome_def_icon:nnnnn{\faPizzaSlice}{pizza-slice}{free3}{195}{"F818}
 \__fontawesome_def_icon:nnnnn{\faPlaceOfWorship}{place-of-worship}{free3}{196}{"F67F}
@@ -1422,6 +1441,7 @@
 \__fontawesome_def_icon:nnnnn{\faSeedling}{seedling}{free4}{48}{"F4D8}
 \__fontawesome_def_icon:nnnnn{\faSellcast}{sellcast}{brands1}{120}{"F2DA}
 \__fontawesome_def_icon:nnnnn{\faSellsy}{sellsy}{brands1}{121}{"F213}
+\__fontawesome_def_icon:nnnnn{\faSeptagon}{septagon}{free4}{49}{"E820}
 \__fontawesome_def_icon:nnnnn{\faServer}{server}{free4}{50}{"F233}
 \__fontawesome_def_icon:nnnnn{\faServicestack}{servicestack}{brands1}{122}{"F3EC}
 \__fontawesome_def_icon:nnnnn{\faShapes}{shapes}{free4}{51}{"F61F}
@@ -1457,6 +1477,8 @@
 \__fontawesome_def_icon:nnnnn{\faSignsPost}{signs-post}{free4}{76}{"F277}
 \__fontawesome_def_icon:nnnnn{\faSimCard}{sim-card}{free4}{77}{"F7C4}
 \__fontawesome_def_icon:nnnnn{\faSimplybuilt}{simplybuilt}{brands1}{128}{"F215}
+\__fontawesome_def_icon:nnnnn{\faSingleQuoteLeft}{single-quote-left}{free4}{78}{"E81B}
+\__fontawesome_def_icon:nnnnn{\faSingleQuoteRight}{single-quote-right}{free4}{79}{"E81C}
 \__fontawesome_def_icon:nnnnn{\faSink}{sink}{free4}{80}{"E06D}
 \__fontawesome_def_icon:nnnnn{\faSistrix}{sistrix}{brands1}{129}{"F3EE}
 \__fontawesome_def_icon:nnnnn{\faSitemap}{sitemap}{free4}{81}{"F0E8}
@@ -1494,6 +1516,7 @@
 \__fontawesome_def_icon:nnnnn{\faSpellCheck}{spell-check}{free4}{101}{"F891}
 \__fontawesome_def_icon:nnnnn{\faSpider}{spider}{free4}{102}{"F717}
 \__fontawesome_def_icon:nnnnn{\faSpinner}{spinner}{free4}{103}{"F110}
+\__fontawesome_def_icon:nnnnn{\faSpiral}{spiral}{free4}{104}{"E80A}
 \__fontawesome_def_icon:nnnnn{\faSplotch}{splotch}{free4}{105}{"F5BC}
 \__fontawesome_def_icon:nnnnn{\faSpoon}{spoon}{free4}{106}{"F2E5}
 \__fontawesome_def_icon:nnnnn{\faSpotify}{spotify}{brands1}{144}{"F1BC}
@@ -1512,6 +1535,7 @@
 \__fontawesome_def_icon:nnnnn{\faSquareDribbble}{square-dribbble}{brands1}{147}{"F397}
 \__fontawesome_def_icon:nnnnn{\faSquareEnvelope}{square-envelope}{free4}{117}{"F199}
 \__fontawesome_def_icon:nnnnn{\faSquareFacebook}{square-facebook}{brands1}{148}{"F082}
+\__fontawesome_def_icon:nnnnn{\faSquareFigma}{square-figma}{brands1}{149}{"E7E4}
 \__fontawesome_def_icon:nnnnn{\faSquareFontAwesome}{square-font-awesome}{brands1}{150}{"E5AD}
 \__fontawesome_def_icon:nnnnn{\faSquareFontAwesomeStroke}{square-font-awesome-stroke}{brands1}{151}{"F35C}
 \__fontawesome_def_icon:nnnnn{\faSquareFull}{square-full}{free4}{118}{"F45C}
@@ -1525,6 +1549,7 @@
 \__fontawesome_def_icon:nnnnn{\faSquareJs}{square-js}{brands1}{158}{"F3B9}
 \__fontawesome_def_icon:nnnnn{\faSquareLastfm}{square-lastfm}{brands1}{159}{"F203}
 \__fontawesome_def_icon:nnnnn{\faSquareLetterboxd}{square-letterboxd}{brands1}{160}{"E62E}
+\__fontawesome_def_icon:nnnnn{\faSquareLinkedin}{square-linkedin}{brands1}{161}{"E7D0}
 \__fontawesome_def_icon:nnnnn{\faSquareMinus}{square-minus}{free4}{120}{"F146}
 \__fontawesome_def_icon:nnnnn{\faSquareNfi}{square-nfi}{free4}{121}{"E576}
 \__fontawesome_def_icon:nnnnn{\faSquareOdnoklassniki}{square-odnoklassniki}{brands1}{162}{"F264}
@@ -1652,6 +1677,7 @@
 \__fontawesome_def_icon:nnnnn{\faTentArrowsDown}{tent-arrows-down}{free4}{203}{"E581}
 \__fontawesome_def_icon:nnnnn{\faTents}{tents}{free4}{204}{"E582}
 \__fontawesome_def_icon:nnnnn{\faTerminal}{terminal}{free4}{205}{"F120}
+\__fontawesome_def_icon:nnnnn{\faTex}{tex}{brands1}{204}{"E7FF}
 \__fontawesome_def_icon:nnnnn{\faTextHeight}{text-height}{free4}{206}{"F034}
 \__fontawesome_def_icon:nnnnn{\faTextSlash}{text-slash}{free4}{207}{"F87D}
 \__fontawesome_def_icon:nnnnn{\faTextWidth}{text-width}{free4}{208}{"F035}
@@ -1667,6 +1693,7 @@
 \__fontawesome_def_icon:nnnnn{\faThumbtackSlash}{thumbtack-slash}{free4}{213}{"E68F}
 \__fontawesome_def_icon:nnnnn{\faTicket}{ticket}{free4}{214}{"F145}
 \__fontawesome_def_icon:nnnnn{\faTicketSimple}{ticket-simple}{free4}{215}{"F3FF}
+\__fontawesome_def_icon:nnnnn{\faTidal}{tidal}{brands1}{210}{"E7DC}
 \__fontawesome_def_icon:nnnnn{\faTiktok}{tiktok}{brands1}{211}{"E07B}
 \__fontawesome_def_icon:nnnnn{\faTimeline}{timeline}{free4}{216}{"E29C}
 \__fontawesome_def_icon:nnnnn{\faToggleOff}{toggle-off}{free4}{217}{"F204}
@@ -1819,8 +1846,10 @@
 \__fontawesome_def_icon:nnnnn{\faVolumeOff}{volume-off}{free5}{79}{"F026}
 \__fontawesome_def_icon:nnnnn{\faVolumeXmark}{volume-xmark}{free5}{80}{"F6A9}
 \__fontawesome_def_icon:nnnnn{\faVrCardboard}{vr-cardboard}{free5}{81}{"F729}
+\__fontawesome_def_icon:nnnnn{\faVsco}{vsco}{brands1}{243}{"E7DD}
 \__fontawesome_def_icon:nnnnn{\faVuejs}{vuejs}{brands1}{244}{"F41F}
 \__fontawesome_def_icon:nnnnn{\faW}{w}{free5}{82}{"57}
+\__fontawesome_def_icon:nnnnn{}{w3c}{brands1}{246}{"E7DE}
 \__fontawesome_def_icon:nnnnn{\faWalkieTalkie}{walkie-talkie}{free5}{83}{"F8EF}
 \__fontawesome_def_icon:nnnnn{\faWallet}{wallet}{free5}{84}{"F555}
 \__fontawesome_def_icon:nnnnn{\faWandMagic}{wand-magic}{free5}{85}{"F0D0}

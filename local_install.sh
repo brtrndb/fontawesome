@@ -1,36 +1,36 @@
-mkdir -p ~/texmf/tex/latex/fontawesome6
-mkdir -p ~/texmf/fonts/opentype/fontawesome6
-mkdir -p ~/texmf/fonts/type1/fontawesome6
-mkdir -p ~/texmf/fonts/tfm/fontawesome6
-mkdir -p ~/texmf/fonts/map/dvips/fontawesome6
-mkdir -p ~/texmf/fonts/enc/dvips/fontawesome6
+mkdir -p ~/texmf/tex/latex/fontawesome7
+mkdir -p ~/texmf/fonts/opentype/fontawesome7
+mkdir -p ~/texmf/fonts/type1/fontawesome7
+mkdir -p ~/texmf/fonts/tfm/fontawesome7
+mkdir -p ~/texmf/fonts/map/dvips/fontawesome7
+mkdir -p ~/texmf/fonts/enc/dvips/fontawesome7
 
-cd fontawesome6
+cd fontawesome7
 
 # copy files
 # Copy LaTeX package and helper files
-cp tex/*.sty ~/texmf/tex/latex/fontawesome6/
-cp tex/*.fd ~/texmf/tex/latex/fontawesome6/
-cp tex/*.lua ~/texmf/tex/latex/fontawesome6/
-cp tex/*.def ~/texmf/tex/latex/fontawesome6/
+cp tex/*.sty ~/texmf/tex/latex/fontawesome7/
+cp tex/*.fd ~/texmf/tex/latex/fontawesome7/
+cp tex/*.lua ~/texmf/tex/latex/fontawesome7/
+cp tex/*.def ~/texmf/tex/latex/fontawesome7/
 
 # Copy OpenType fonts
-cp opentype/*.otf ~/texmf/fonts/opentype/fontawesome6/
+cp opentype/*.otf ~/texmf/fonts/opentype/fontawesome7/
 
 # Copy Type1 fonts
-cp type1/*.pfb ~/texmf/fonts/type1/fontawesome6/
+cp type1/*.pfb ~/texmf/fonts/type1/fontawesome7/
 
 # Copy TFM files
-cp tfm/*.tfm ~/texmf/fonts/tfm/fontawesome6/
+cp tfm/*.tfm ~/texmf/fonts/tfm/fontawesome7/
 
 # Copy map files
-cp map/*.map ~/texmf/fonts/map/dvips/fontawesome6/
+cp map/*.map ~/texmf/fonts/map/dvips/fontawesome7/
 
 # Copy encoding files
-cp enc/*.enc ~/texmf/fonts/enc/dvips/fontawesome6/
+cp enc/*.enc ~/texmf/fonts/enc/dvips/fontawesome7/
 
 mktexlsr ~/texmf
-updmap-user --enable Map=fontawesome6.map
+updmap-user --enable Map=fontawesome7.map
 
 updmap-user --syncwithtrees
 kpsewhich pdftex.map
