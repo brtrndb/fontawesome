@@ -1,7 +1,7 @@
-Support files for using Font Awesome 6 with LaTeX
+Support files for using Font Awesome 7 with LaTeX
 
-This package provides LaTeX support for the included "Font Awesome 6 Free" icon set. These icons were designed by Font Awesome and released under the SIL OFL 1.1 license.
-The commercial "Pro" version is also supported, if it is installed and XeLaTeX or LuaLaTeX is used. For this font you need a paid license, for more information visit https://fontawesome.com/pro.
+This package provides LaTeX support for the included "Font Awesome 7 Free" icon set. These icons were designed by Font Awesome and released under the SIL OFL 1.1 license.
+The commercial “Pro” version has only preliminary alpha support for now, if it is installed and XeLaTeX or LuaLaTeX is used. For this font you need a paid license, for more information visit https://fontawesome.com/pro.
 More information about Font Awesome is available at https://fontawesome.com.
 
 To use an icon after the package is loaded, just enter the name of the icon in camel-case prefixed with \fa, for example `\faAddressBook` for the `address-book` icon.
